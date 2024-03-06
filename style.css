@@ -16,6 +16,7 @@
     border-radius: 20px;
     padding: 40px 35px;
     text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
   .search
   {
@@ -35,6 +36,7 @@
     flex: 1;
     margin-right: 16px;
     font-size: 18px ;
+    font-family: 'Courier New', Courier, monospace;
 }
 .search button{
     border: none;
@@ -67,7 +69,7 @@
 .weather h2
 {
     font-size: 45px;
-    font-weight: 400;
+    font-weight: 500;
     margin-top: -10px;
 
 }
